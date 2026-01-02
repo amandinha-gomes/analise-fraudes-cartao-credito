@@ -52,7 +52,7 @@ O objetivo principal é identificar **padrões de fraude**, entender o **comport
 
 O gráfico abaixo apresenta as **10 categorias com maior número de transações fraudulentas**, já traduzidas para o português:
 
-![Top 10 Categorias com Mais Fraudes](dados/images/top_10_categorias_com_mais_fraudes.png)
+![Top 10 Categorias com Mais Fraudes](/images/top_10_categorias_com_mais_fraudes.png)
 
 ---
 
